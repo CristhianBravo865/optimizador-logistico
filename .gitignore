@@ -1,0 +1,17 @@
+# MATLAB
+*.asv
+*.autosave
+*.m~
+*.mex*
+slprj/
+codegen/
+resources/project/
+
+# Salidas generadas por la aplicación
+salidas/
+*.mat
+
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini
